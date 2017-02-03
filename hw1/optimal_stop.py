@@ -1,3 +1,4 @@
+# A script for producing answers to problem 1.
 # Requires Python3 and and Python3 MatPlotLib library to be installed.
 
 import matplotlib.pyplot as plt
